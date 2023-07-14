@@ -12,6 +12,14 @@
         },
         {
             "type": "song",
+            "name": "nuclear",
+            "author": "alarm",
+            "speed": 1,
+            "file": "https://github.com/charlesdecott/cc-songs/raw/master/nuclear_alarm.dfpwm",
+            "time": 166
+        },
+        {
+            "type": "song",
             "name": "Supersonic (My existence)",
             "author": "Skrillex, Nosia, josh pan, Dylan Brady",
             "speed": 1,
