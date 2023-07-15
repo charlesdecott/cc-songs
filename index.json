@@ -12,6 +12,14 @@
         },
         {
             "type": "song",
+            "name": "doctor who theme",
+            "author": "doctor_who (non)",
+            "speed": 1,
+            "file": "https://github.com/charlesdecott/cc-songs/raw/master/doctor_who.dfpwm",
+            "time": 166
+        },
+        {
+            "type": "song",
             "name": "nuclear",
             "author": "alarm",
             "speed": 1,
